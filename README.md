@@ -22,7 +22,7 @@ Este projeto utiliza a placa **BitDogLab** para consolidar conceitos de comunica
 
 ## Demonstração
 O funcionamento do projeto pode ser visto no vídeo demonstrativo disponível em:
-[Link para o vídeo]
+[https://youtube.com/shorts/6BgNaS5Gf9E]
 
 ## Autor
 Theógenes Gabriel Araújo de Andrade
